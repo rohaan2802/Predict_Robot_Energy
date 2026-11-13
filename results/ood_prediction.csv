@@ -1,0 +1,2 @@
+Load_Weight_kg,Speed_m_per_s,Terrain_Roughness,Task_Duration_min,Pred_SVR,Pred_LR,note
+25,2.200000000000,7,35,180.893219405397,332.496819276165,"outside the training hull (max train load 22 kg, speed 2.0, duration 30 min)"

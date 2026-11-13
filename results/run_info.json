@@ -1,0 +1,33 @@
+{
+  "n": 10,
+  "test_size": 0.2,
+  "random_state": 42,
+  "n_train": 8,
+  "n_test": 2,
+  "train_indices": [
+    0,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9
+  ],
+  "test_indices": [
+    1,
+    8
+  ],
+  "svr": {
+    "kernel": "rbf",
+    "C": 1.0,
+    "epsilon": 0.1,
+    "gamma": "scale",
+    "gamma_value": 0.25000000000000006,
+    "n_support": 8,
+    "intercept": 179.65652592573315
+  },
+  "ood_svr": 180.893219405397,
+  "ood_lr": 332.4968192761651,
+  "sklearn_note": "Numbers below should match the executed notebook outputs."
+}
